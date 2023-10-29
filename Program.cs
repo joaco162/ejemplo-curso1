@@ -8,6 +8,7 @@ namespace ejemplo1
 {
     class Program
     {
+        // lo modifique
         static void Main(string[] args)
         {
             //Persona p1 = new Persona();
